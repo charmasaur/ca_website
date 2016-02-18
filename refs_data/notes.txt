@@ -1,0 +1,9 @@
+This really all starts with domains of holomorphy, so when did they become interesting? I guess Hartogs, but check this.
+
+Then Levi's papers, which start asking about what their boundaries can look like.
+
+Then all the various theory up to Oka.
+
+Then how it connects with more modern stuff?
+
+Also mention the Cousin problems. Where did these come from? Why are they important?
