@@ -1,4 +1,6 @@
-This really all starts with domains of holomorphy, so when did they become interesting? I guess Hartogs, but check this.
+Cousin 1895: Introduces the Cousin problems, which essentially ask for holomorphic functions with prescribed zeros and poles. They generalise the Mittag-Leffler and Weierstrass Factorization theorems.
+
+This really all starts with domains of holomorphy, so when did they become interesting? Hartogs. This shows that to understand holomorphic functions of several variables we need to look at domains.
 
 Then Levi's papers, which start asking about what their boundaries can look like.
 
@@ -7,3 +9,4 @@ Then all the various theory up to Oka.
 Then how it connects with more modern stuff?
 
 Also mention the Cousin problems. Where did these come from? Why are they important?
+
