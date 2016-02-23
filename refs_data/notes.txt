@@ -1,3 +1,5 @@
+Mittag-Leffler and Weierstrass in 1876. Mittag-Leffler has several more over the next 12 years which I can include too.
+
 Cousin 1895: Introduces the Cousin problems, which essentially ask for holomorphic functions with prescribed zeros and poles. They generalise the Mittag-Leffler and Weierstrass Factorization theorems.
 
 This really all starts with domains of holomorphy, so when did they become interesting? Hartogs. This shows that to understand holomorphic functions of several variables we need to look at domains.
