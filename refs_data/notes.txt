@@ -2,4 +2,4 @@ Mittag-Leffler and Weierstrass in 1876. Mittag-Leffler has several more over the
 
 Fornaess has a bunch of more recent things about pseudoconvex domains. Haven't included most of them, but could be worth another look.
 
-I can basically go as far as I want. I think I should focus a bit more closely on the classical stuff that I cover in the paper.
+Faber has some which definitely look relevant (around Hartogs era). Things like Cousin problems, etc.. https://zbmath-org.virtual.anu.edu.au/authors/?q=ai:faber.georg
