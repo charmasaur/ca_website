@@ -1,3 +1,9 @@
 Mittag-Leffler and Weierstrass in 1876. Mittag-Leffler has several more over the next 12 years which I can include too.
 
 Fornaess has a bunch of more recent things about pseudoconvex domains. Haven't included most of them, but could be worth another look.
+
+Maybe Severi? (https://zbmath-org.virtual.anu.edu.au/?q=an:03005611) cited by Oka_1942.
+
+This link http://www.ams.org.virtual.anu.edu.au/mathscinet/search/publdoc.html?extend=1&pg1=INDI&s1=33655&vfpref=html&r=32&mx-pid=86352 has a good list of important names in the development. I've got most, but not some.
+
+Also take a look at Behnke's publications from about 1955 onwards (to more recent): http://www.ams.org.virtual.anu.edu.au/mathscinet/search/publications.html?pg1=INDI&s1=33655&vfpref=html&r=1&extend=1 a quick look suggests there's not much, but should check more when more awake.
