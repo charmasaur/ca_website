@@ -4,8 +4,6 @@ Fornaess has a bunch of more recent things about pseudoconvex domains. Haven't i
 
 Maybe Severi? (https://zbmath-org.virtual.anu.edu.au/?q=an:03005611) cited by Oka_1942.
 
-E. Kreyszig
-F. Norguet
 R. Remmert
 M. Rosenlicht
 W. Stoll
@@ -22,7 +20,9 @@ B. Eckmann
 H. Grauert
 F. Hirzebruch
 K. Kodaira
+E. Kreyszig
 J. J. Kohn
+F. Norguet
 K. Oka
 J. P. Serre
 K. Stein
