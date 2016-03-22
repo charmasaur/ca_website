@@ -4,8 +4,7 @@ Fornaess has a bunch of more recent things about pseudoconvex domains. Haven't i
 
 Maybe Severi? (https://zbmath-org.virtual.anu.edu.au/?q=an:03005611) cited by Oka_1942.
 
-Browder http://www.ams.org.virtual.anu.edu.au/mathscinet/search/publdoc.html?r=1&pg1=MR&s1=132395&loc=fromrevtext (I think an analogue of Hartog for real functions or something?)
-
+Maybe Browder? I have one, but haven't checked his others.
 
 Done (gone through all papers on ZBL/MR):
 H. Behnke
