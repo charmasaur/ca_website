@@ -17,6 +17,7 @@ H. Grauert
 F. Hirzebruch
 K. Kodaira
 J. J. Kohn
+E. Martinelli
 K. Oka
 M. Rosenlicht
 J. P. Serre
