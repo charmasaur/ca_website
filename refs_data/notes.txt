@@ -12,6 +12,7 @@ H. Cartan
 L. Calabi
 W. L. Chow
 B. Eckmann
+R. Fueter
 H. Grauert
 F. Hirzebruch
 K. Kodaira
