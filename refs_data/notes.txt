@@ -15,6 +15,7 @@ W. L. Chow
 P. Dolbeault (I think.. quite modern stuff, so I find it hard to tell)
 B. Eckmann
 R. Fueter
+B. A. Fuks
 H. Grauert
 F. Hirzebruch
 K. Kodaira
@@ -24,6 +25,7 @@ E. Martinelli
 K. Oka
 M. Rosenlicht
 J. P. Serre
+F. Sommer
 K. Stein
 W. Thimm
 P. Thullen
