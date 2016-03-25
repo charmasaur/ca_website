@@ -6,14 +6,13 @@ Maybe Severi? (https://zbmath-org.virtual.anu.edu.au/?q=an:03005611) cited by Ok
 
 Maybe Browder? I have one, but haven't checked his others.
 
-Dolbeault
-
 Done (gone through all papers on ZBL/MR):
 H. Behnke
 H. Bremermann
 H. Cartan
 L. Calabi
 W. L. Chow
+P. Dolbeault (I think.. quite modern stuff, so I find it hard to tell)
 B. Eckmann
 R. Fueter
 H. Grauert
