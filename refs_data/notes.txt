@@ -6,6 +6,9 @@ Maybe Severi? (https://zbmath-org.virtual.anu.edu.au/?q=an:03005611) cited by Ok
 
 Maybe Browder? I have one, but haven't checked his others.
 
+Skipped a few refs in 1956_Serre because that's actually not that relevant to the Levi problem, and the references are even less so.
+Same with 1959_Leray
+
 Done (gone through all papers on ZBL/MR):
 H. Behnke
 H. Bremermann
