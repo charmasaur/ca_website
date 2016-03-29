@@ -1,9 +1,8 @@
-Mittag-Leffler and Weierstrass in 1876. Mittag-Leffler has several more over the next 12 years which I can include too.
-
-Fornaess has a bunch of more recent things about pseudoconvex domains. Haven't included most of them, but could be worth another look.
-
 Skipped a few refs in 1956_Serre because that's actually not that relevant to the Levi problem, and the references are even less so.
 Same with 1959_Leray
+
+http://www.ams.org.virtual.anu.edu.au/mathscinet/search/publdoc.html?extend=1&pg1=INDI&s1=57845&vfpref=html&r=39&mx-pid=1453598 could be useful if I need to include more modern things
+Interesting names here are Fornaess, Diederich, Ohsawa
 
 Done (gone through all papers on ZBL/MR):
 H. Behnke
