@@ -2,7 +2,9 @@ Skipped a few refs in 1956_Serre because that's actually not that relevant to th
 Same with 1959_Leray
 
 http://www.ams.org.virtual.anu.edu.au/mathscinet/search/publdoc.html?extend=1&pg1=INDI&s1=57845&vfpref=html&r=39&mx-pid=1453598 could be useful if I need to include more modern things
-Interesting names here are Fornaess, Diederich, Ohsawa
+Interesting names here are Fornaess, Diederich, Ohsawa.
+
+Fornaess old, very relevant stuff is done. Has some new things that are probably slightly relevant, but they're too new.
 
 Done (gone through all papers on ZBL/MR):
 H. Behnke
