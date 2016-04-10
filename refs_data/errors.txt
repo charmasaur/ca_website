@@ -1,0 +1,12 @@
+Things that the conversion actually breaks. Also anything in math mode.
+Kohn 1961
+Kohn 1963
+Lelong 1964
+Hormander 1965
+Henkin 1970
+Kohn 1972
+Range Siu 1973
+Kohn 1973
+Fornaess 1978
+Kohn 1979
+Range 1982
